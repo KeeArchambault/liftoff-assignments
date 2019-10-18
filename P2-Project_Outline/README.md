@@ -13,8 +13,9 @@ My app will essentially just be a forum, similar to facebook or stack overflow.
 2) Profile Picture: The ability to upload a profile picture, which will be displayed along with all of the user's posts on their profile page.
 3) Posts: The ability to make text posts, which will be accompanied by a timestamp, user signature which links to the author's profile, and the total number of comments on the post.
 4) Comments: The ability to comment on posts; like posts, comments will also be accompanied by a timestamp and clickable signature.
-5) Messages: The ability to send direct messages to other users; user's will have an "inbox" area for recieved messages as well as a "sent" area for sent messages.
+5) Messages: The ability to send direct messages to other users; users will have an "inbox" area for recieved messages as well as a "sent" area for sent messages.
 6) Search: The ability to search through posts and users at any point from the navigation bar.
+7) Design: Basic responsive design.
 ### Technologies
 Java, Spring Boot, Thymeleaf, Bootstrap and (maybe) Javascript.
 ### What I'll Have to Learn
